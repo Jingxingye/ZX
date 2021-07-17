@@ -6,5 +6,7 @@ public class Main {
 	// write your code here
         System.out.println("测试数据");
         System.out.println("1");
+        System.out.println("测试数据");
+        System.out.println("1");
     }
 }
